@@ -1,0 +1,10 @@
+streamlit
+numpy
+pandas
+torch
+scikit-learn
+re
+os
+
+
+
